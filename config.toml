@@ -25,3 +25,7 @@ theme = "blackburn"
     weight = 3
     identifier = "about"
     url = "/about/"  
+
+[social]
+  github = "CasperKoning"
+  linkedin = "casperkoning"
