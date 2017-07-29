@@ -3,11 +3,10 @@ languageCode = "en-us"
 title = "Casper Koning"
 theme = "blackburn"
 
-PygmentsCodeFences = true
-pygmentsstyle = "pastie"
-
 [params]
   subtitle = "Software Engineer"
+  highlightjs = "vs2015"
+  highlightjs_extra_languages = ["scala"]
 
 [menu]
   [[menu.Main]]
