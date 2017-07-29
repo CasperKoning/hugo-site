@@ -1,4 +1,7 @@
 baseURL = "http://casperkoning.xyz/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Casper Koning"
 theme = "blackburn"
+
+[params]
+  subtitle = "Software Engineer"
