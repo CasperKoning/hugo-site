@@ -5,3 +5,11 @@ theme = "blackburn"
 
 [params]
   subtitle = "Software Engineer"
+
+[menu]
+  [[menu.Main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
