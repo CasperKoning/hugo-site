@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Casper Koning"
 theme = "blackburn"
 
+PygmentsCodeFences = true
+pygmentsstyle = "pastie"
+
 [params]
   subtitle = "Software Engineer"
 
