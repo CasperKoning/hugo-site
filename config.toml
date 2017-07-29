@@ -22,9 +22,15 @@ theme = "blackburn"
     identifier = "post"
     url = "/post/"
   [[menu.Main]]
+    name = "Tags"
+    pre = "<i class='fa fa-tags fa-fw'></i>"
+    weight = 3
+    identifier = "tag"
+    url = "/tags/"  
+  [[menu.Main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 3
+    weight = 4
     identifier = "about"
     url = "/about/"  
 
