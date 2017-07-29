@@ -1,0 +1,40 @@
+---
+baseURL: "http://casperkoning.xyz/"
+languageCode: "en-us"
+title: "Casper Koning"
+theme: "blackburn"
+
+params:
+  subtitle: "Software Engineer"
+  highlightjs: "vs2015"
+  highlightjs_extra_languages: ["scala"]
+
+menu:
+  main:
+    - name: "Home"
+      pre: "<i class='fa fa-home fa-fw'></i>"
+      weight: 1
+      identifier: "home"
+      url: "/"
+
+    - name: "Posts"
+      pre: "<i class='fa fa-list fa-fw'></i>"
+      weight: 2
+      identifier: "post"
+      url: "/post/"
+
+    - name: "Tags"
+      pre: "<i class='fa fa-tags fa-fw'></i>"
+      weight: 3
+      identifier: "tag"
+      url: "/tags/"
+
+    - name: "About"
+      pre: "<i class='fa fa-user fa-fw'></i>"
+      weight: 4
+      identifier: "about"
+      url: "/about/"
+
+social:
+  github: "CasperKoning"
+  linkedin: "casperkoning"
