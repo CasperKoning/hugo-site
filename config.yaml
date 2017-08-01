@@ -1,12 +1,12 @@
 ---
 baseURL: "http://casperkoning.xyz/"
 languageCode: "en-us"
-title: "Casper Koning"
+title: "Casper's Blog"
 theme: "blackburn"
 
 params:
   brand: "Casper's Blog"
-  subtitle: "Software Engineer"
+  subtitle: "Software Engineering and miscellaneous mind dumps"
   highlightjs: "vs2015"
   highlightjs_extra_languages: ["scala"]
 
