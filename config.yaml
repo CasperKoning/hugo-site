@@ -5,6 +5,7 @@ title: "Casper Koning"
 theme: "blackburn"
 
 params:
+  brand: "Casper's Blog"
   subtitle: "Software Engineer"
   highlightjs: "vs2015"
   highlightjs_extra_languages: ["scala"]
