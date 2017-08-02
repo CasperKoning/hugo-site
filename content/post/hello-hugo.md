@@ -1,7 +1,7 @@
 ---
 title: "Hello Hugo"
 date: 2017-07-29T23:20:06+02:00
-draft: true
+draft: false
 tags: [hugo, hello-world]
 description: "Hello World blog post for Hugo site"
 ---
