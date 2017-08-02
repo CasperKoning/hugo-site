@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casper&#39;s Blog</title>
-    <link>http://casperkoning.xyz/</link>
+    <link>https://casperkoning.github.io/hugo-site/</link>
     <description>Recent content on Casper&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Jul 2017 23:20:06 +0200</lastBuildDate>
     
-	<atom:link href="http://casperkoning.xyz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://casperkoning.github.io/hugo-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Hugo</title>
-      <link>http://casperkoning.xyz/post/hello-hugo/</link>
+      <link>https://casperkoning.github.io/hugo-site/post/hello-hugo/</link>
       <pubDate>Sat, 29 Jul 2017 23:20:06 +0200</pubDate>
       
-      <guid>http://casperkoning.xyz/post/hello-hugo/</guid>
+      <guid>https://casperkoning.github.io/hugo-site/post/hello-hugo/</guid>
       <description>I&amp;rsquo;m using Hugo!</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://casperkoning.xyz/about/</link>
+      <link>https://casperkoning.github.io/hugo-site/about/</link>
       <pubDate>Sat, 29 Jul 2017 19:07:09 +0200</pubDate>
       
-      <guid>http://casperkoning.xyz/about/</guid>
+      <guid>https://casperkoning.github.io/hugo-site/about/</guid>
       <description></description>
     </item>
     
