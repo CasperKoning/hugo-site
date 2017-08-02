@@ -1,5 +1,5 @@
 ---
-baseURL: "http://casperkoning.xyz/"
+baseURL: "https://casperkoning.github.io/hugo-site/"
 languageCode: "en-us"
 title: "Casper's Blog"
 theme: "blackburn"
